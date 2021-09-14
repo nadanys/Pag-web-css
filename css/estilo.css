@@ -1,0 +1,6 @@
+body{}
+.estilotitulo {font-family: Lucida; font-size:  xx-large ; text-align: center; background-color: #FAD7A0; color: brown; text-decoration:underline; text-decoration-color: brown}
+.imagen {width:350px ;height: 233px; display: block;margin-left: auto; margin-right: auto;}
+.estilosubtitulo{font-family:tahoma; font-size: x-large ; text-align: center; background-color: #FAD7A0; color:brown;}
+.estiloparrafo {font-family: tahoma ; font-size: medium ; text-align: center ; color: brown; font-style: oblique;}
+.estilolista2 {font-family: tahoma ; list-style-position: inside; font-size: medium ; align-content: center; text-align: center; color: brown;}
